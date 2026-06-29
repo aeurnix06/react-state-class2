@@ -1,0 +1,8 @@
+.Ticket{
+    border: 5px solid skyblue;
+    border-radius: 50px;
+    margin-top: 50px;
+    width: 300px;
+     margin: 50px auto;
+     margin-bottom: 5px;
+}
